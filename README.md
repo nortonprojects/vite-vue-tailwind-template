@@ -11,3 +11,8 @@ This template gets a bunch of tools up and running for application development:
 - [ESlint](https://eslint.org/) for formatting enforcement
 - [CommitLint](https://commitlint.js.org/#/) for standardized commit messages
 - [Husky](https://typicode.github.io/husky/#/) for easy git hooks
+
+## Future Goals
+
+[ ] Turn into [template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-template-repository)
+[ ] Add additional automation using [Github Actions](https://docs.github.com/en/actions)
